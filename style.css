@@ -3,9 +3,10 @@ body {
     font-size: 12px;
     max-width: 960px;
     margin: auto;
+    
 }
 h1 {
-    font-size: 3em;
+    font-size: 4em;
     letter-spacing: .6em;
     padding-top: 1em;
 }
